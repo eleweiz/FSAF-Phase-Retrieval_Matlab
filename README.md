@@ -1,6 +1,6 @@
 # FSAF-Phase-Retrieval_Matlab
 Implementation of the Frequency Subspace Amplitude Flow algorithm for Phase Retrieval
-Include 1D, 2D coherent diffraction parttern, and natural image reconstrution from intensity measurements. 
+Including 1D, 2D coherent diffraction parttern, and natural image reconstrution from intensity measurements. 
 
 Copyright © 2018,  National University of Singapore, Zhun Wei.
 Matlab Implementation of the Frequency Subspace Amplitude Flow algorithm proposed in the paper ``Frequency Subspace Amplitude Flow for Phase Retrieval'' by Z. Wei, W. Chen, and X. Chen (2018). The code is adapted from implementation of the Wirtinger Flow algorithm designed and implemented by E. J. Candes, X. D. Li, and M. Soltanolkotabi
